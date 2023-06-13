@@ -2,9 +2,9 @@
   "name": "curriculo",
   "version": "1.0.0",
   "description": "",
-  "main": "backend/crud.js",
+  "main": "./backend/crud.js",
   "scripts": {
-    "start": "node backend/crud.js"
+    "start": "node ./backend/crud.js"
   },
   "author": "",
   "license": "ISC",
